@@ -1,11 +1,12 @@
 This is the AIRBNB clone project aiming to deploy on our server a simple copy of the airbnb website.
+
 DESCRIPTION OF THE PROJECT
 At the end of the project, we are supposed to have an web application with four elements:
 
-    A command interpreter to manipulate data without a visual interface, like in a Shell (perfect for development and debugging)
-    A website (the front-end) that shows the final product to everybody: static and dynamic
-    A database or files that store data (data = objects)
-    An API that provides a communication interface between the front-end and your data (retrieve, create, delete, update them)
+A command interpreter to manipulate data without a visual interface, like in a Shell (perfect for development and debugging)
+A website (the front-end) that shows the final product to everybody: static and dynamic
+A database or files that store data (data = objects)
+An API that provides a communication interface between the front-end and your data (retrieve, create, delete, update them)
 
 DESCRIPTION OF THE COMMAND INTERPRETER / CONSOLE
 The command interpreter also called the console in our project helps developers to manipulate data with commands prompts like in a Shell prompt 
